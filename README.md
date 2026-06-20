@@ -1,1 +1,1 @@
-enter the python quistion ?
+1.enter the python quistion ?
